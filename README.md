@@ -64,3 +64,14 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Clear Git repo history
+
+| Command | Description |
+| ------- | ___________ |
+| `git checkout --orphan latest_branch` | Checkout |
+| `git add -A | Add all the files` |
+| `git commit -am "commit message"` | Commit the branch |
+| `git branch -D main` | Delete the branch |
+| `git branch -m main` | Rename the current branch to main |
+| `git push -f origin main` | Force update your branch |
