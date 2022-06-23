@@ -70,7 +70,7 @@ _A list of my commonly used Git commands_
 | Command | Description |
 | ------- | ----------- |
 | `git checkout --orphan latest_branch` | Checkout |
-| `git add -A | Add all the files` |
+| `git add -A` | Add all the files | 
 | `git commit -am "commit message"` | Commit the branch |
 | `git branch -D main` | Delete the branch |
 | `git branch -m main` | Rename the current branch to main |
