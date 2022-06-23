@@ -68,7 +68,7 @@ _A list of my commonly used Git commands_
 ### Clear Git repo history
 
 | Command | Description |
-| ------- | ___________ |
+| ------- | ----------- |
 | `git checkout --orphan latest_branch` | Checkout |
 | `git add -A | Add all the files` |
 | `git commit -am "commit message"` | Commit the branch |
